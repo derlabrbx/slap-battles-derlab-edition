@@ -62,8 +62,8 @@ Known facts about early development:
 Currently, derlab is the sole developer.
 
 
+Gloves:
 
-        Gloves:
 Default Glove
 Overview
 
@@ -71,7 +71,7 @@ The Default glove in Slap Battles Derlab Edition is the starter glove every play
 It is one of the original gloves carried over from the official Slap Battles, but with Derlab‑specific mechanics added, including a unique critical hit passive and a comedic Dash (E ability).
 
 This glove also awards the Wombo Combo badge, a cosmetic achievement with no gameplay effect.
-    Stats
+Stats:
 
     Power: 30
 
@@ -97,10 +97,10 @@ Dash Details
     Purpose: Repositioning, combo extension, escaping knockback
 
 The dash is intentionally comedic but mechanically useful for chaining hits or dodging.
-    Passive – Critical Hit Mechanic
+Passive – Critical Hit Mechanic
 
 The Default glove has a unique passive that triggers when you slap a player who is still in knockback from your previous slap.
-Critical Hit Behavior
+Critical Hit Behavior:
 
     Cancels the target’s current knockback
 
@@ -111,11 +111,16 @@ Critical Hit Behavior
     Enables fast combo loops and repeated hits
 
 This passive makes the Default glove surprisingly strong for skilled players who can time slaps during knockback windows.
-    Badge – Wombo Combo
-Badge Name: Wombo Combo
-Awarded By: Default glove
-Trigger: Performing a critical hit (the glove’s passive)
-Effect: Cosmetic only — the badge does nothing
-Notes: Exists mainly as a fun achievement and reference to the glove’s combo‑based design.
+Badge – Wombo Combo:
+
+    Badge Name: Wombo Combo
+    
+    Awarded By: Default glove
+    
+    Trigger: Performing a critical hit (the glove’s passive)
+    
+    Effect: Cosmetic only — the badge does nothing
+    
+    Notes: Exists mainly as a fun achievement and reference to the glove’s combo‑based design.
 
 
