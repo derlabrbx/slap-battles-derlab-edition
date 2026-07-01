@@ -68,7 +68,7 @@ Default Glove
 Overview
 
 The Default glove in Slap Battles Derlab Edition is the starter glove every player begins with.
-It is one of the original gloves carried over from the official Slap Battles, but with Derlab‑specific mechanics added, including a unique critical hit passive and a comedic Dash (E ability).
+It is one of the gloves carried over from the official Slap Battles, but with a unique critical hit passive.
 
 This glove also awards the Wombo Combo badge, a cosmetic achievement with no gameplay effect.
 Stats:
