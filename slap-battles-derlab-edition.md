@@ -86,7 +86,9 @@ Stats:
     Ability – Dash (E Ability)
 
 Pressing E activates the Default glove’s dash.
-Dash Details
+Dash Details:
+
+    Cooldown: 2 seconds
 
     Effect: Fart‑dash burst
 
