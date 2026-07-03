@@ -125,4 +125,34 @@ Badge – Wombo Combo:
     
     Notes: Exists mainly as a fun achievement and reference to the glove’s combo‑based design.
 
+All other glove descriptions following this were not made with AI btw
 
+Sky Glove
+Overview
+
+The Sky glove in Slap Battles Derlab Edition is the third glove ever added (if I recall well).
+It is another glove inspired by the Slap Battles space glove, but its ability has differences that make it unique.
+
+While the glove doesn't award any badges directly, it can be used to get on top of the lobby and get Smiley, Sans or SFOTH gloves, or to teleport to Asgore's bossfight.
+Stats:
+
+    Power: 42
+
+    Speed: 14
+
+    Type: Press E to use
+
+    Requirement: Have at least 75 slaps
+
+    Tooltip: “You ain't catching me today”
+
+    Ability – Go to the sky (E Ability)
+
+Pressing E activates the Sky glove’s Go to the sky ability.
+Ability Details:
+
+    Cooldown: 8 seconds
+
+    Details: After a short windup, launch yourself upwards at a very high speed. The speed is heavily reduced while in the air (Divided by 8 to be exact)
+
+    Purpose: Obtaining badges, saving yourself from falling, obtaining slaps quickly (to do that, go to the brazil portal and beat the obby, which gives 250 or teleports you to Sans' place)
